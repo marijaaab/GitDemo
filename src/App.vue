@@ -3,6 +3,12 @@
    <Navigacija></Navigacija>
    <br/>
     <router-view/>
+    <span>Marija1</span>
+    <span>Marija2</span>
+    <span>Marija3</span>
+
+
+
   </div>
 </template>
 
