@@ -3,9 +3,9 @@
    <Navigacija></Navigacija>
    <br/>
     <router-view/>
-    <span>Marija1</span>
-    <span>Marija2</span>
-    <span>Marija3</span>
+    <span>MarijaaaB1</span>
+    <span>MarijaaaB2</span>
+    <span>MarijaaaB3</span>
 
 
 
