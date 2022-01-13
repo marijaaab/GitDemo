@@ -15,7 +15,7 @@
 
 <style>
     #nav{
-        background-color: lightgrey;
+        background-color: red;
     }
 
     #nav img{
